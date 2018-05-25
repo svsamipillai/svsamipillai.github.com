@@ -7,8 +7,8 @@
 /* Global Reset */
 
 * {
-  margin: 0;
-  padding: 0;
+  _margin: 0;
+  _padding: 0;
 }
 
 html,
@@ -18,8 +18,7 @@ body {
 
 body {
   background-color: white;
-  font: 14px Roboto, Arial, Helvetica, Sans-serfif;
-  *font-size: small;
+  font: 1.15em "Cormorant Garamond", serif;
   text-align: center;
 }
 
@@ -30,6 +29,8 @@ h4,
 h5,
 h6 {
   font-size: 100%;
+  font-family: "Playfair Display", serif;
+  margin: 1.15em 0;
 }
 
 h1 {
@@ -96,11 +97,13 @@ ul.posts span {
   color: #a00;
   font-weight: bold;
   font-size: 1.15em;
+  font-family: "Playfair Display", serif;
   margin-bottom: 2em;
 }
 
 .site .title a {
   color: #a00;
+  font-family: "Playfair Display", serif;
   text-decoration: none;
 }
 
