@@ -7,7 +7,16 @@ title: Notes on Effective Weekly Planning
 
 ### Introduction
 
-I consider the following as key building blocks of having a good week. If you are the type of person who likes to optimize themselves, this post will help.
+I consider the following as key building blocks of having a good week. If you are the type of person who likes to optimize themselves, this post will help. There's three parts to effectively setting expectations for yourself:
+
+* Monday Vision
+  * You can do this the weekend before, so you set goals for the upcoming week.
+* Daily Outcomes
+  * Everday, you evaluate your day and set goals.
+* Friday Reflection
+  * Here, you check how your week went, and whether you were able to accomplish what you wanted to.
+
+Iterate, repeat. That's how it works.
 
 ### Monday Vision:
 
